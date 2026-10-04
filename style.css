@@ -1,3 +1,4 @@
+
 body { font-family: Arial, sans-serif; background: #f4f6f8; margin: 0; padding: 20px; }
 h1 { text-align: center; color: #2c3e50; }
 #task-form { max-width: 500px; margin: 0 auto; display: flex; flex-direction: column; gap: 10px; background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,.1); }
@@ -8,3 +9,5 @@ button:hover { background: #2980b9; }
 .task-card button { margin-right: 8px; }
 .task-card.completed h3, .task-card.completed p { text-decoration: line-through; color: #888; }
 @media (max-width: 600px) { body { padding: 10px; } #task-form { padding: 12px; } }
+
+
